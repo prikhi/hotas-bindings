@@ -147,13 +147,69 @@ local diff = {
 			},
 			["name"] = "F10 Theater map view",
 		},
-		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+		["d1760pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "A/A refueling - \"Ready for precontact\" radio call",
+		},
+		["d238pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Pilot Salute",
+		},
+		["d3001pnilu3001cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "Master Mode Button - A/A",
+		},
+		["d3002pnilu3002cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "Master Mode Button - A/G",
+		},
+		["d3002pnilunilcd6vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN62",
+				},
+			},
+			["name"] = "Probe Control Switch - EMERG EXTD",
+		},
+		["d3002pnilunilcd6vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN61",
+				},
+			},
+			["name"] = "Probe Control Switch - RETRACT",
+		},
+		["d3002pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN60",
+				},
+			},
+			["name"] = "Probe Control Switch - EXTEND",
+		},
+		["d3005pnilu3005cd62vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN37",
 				},
 			},
-			["name"] = "Communication menu",
+			["name"] = "LTD/R Switch - ARM",
 		},
 		["d3007pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
@@ -179,10 +235,29 @@ local diff = {
 			},
 			["name"] = "FLAP Switch - AUTO",
 		},
+		["d3010pnilunilcd8vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "LDG/TAXI LIGHT Switch - ON/OFF",
+		},
+		["d3014pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Master Arm Switch - ARM/SAFE",
+		},
 		["d3023pnilu3023cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN34",
+				},
+				[2] = {
+					["key"] = "JOY_BTN36",
 				},
 			},
 			["name"] = "Throttle Designator Controller - DEPRESS",
@@ -323,6 +398,14 @@ local diff = {
 			},
 			["name"] = "Exterior Lights Switch - ON",
 		},
+		["d3041pnilunilcd40vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Hornet Ball",
+		},
 		["d311pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -370,6 +453,14 @@ local diff = {
 				},
 			},
 			["name"] = "Landing Gear Control Handle - DOWN",
+		},
+		["d438pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN64",
+				},
+			},
+			["name"] = "Toggle goggles",
 		},
 		["d71pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -435,6 +526,38 @@ local diff = {
 				},
 			},
 		},
+		["dnilp3023unilcd40vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN68",
+				},
+			},
+			["name"] = "RWR Volume Control Knob - CCW/Decrease",
+		},
+		["dnilp3023unilcd40vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN69",
+				},
+			},
+			["name"] = "RWR Volume Control Knob - CW/Increase",
+		},
+		["dnilp3025unilcd40vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN70",
+				},
+			},
+			["name"] = "WPN Volume Control Knob - CCW/Decrease",
+		},
+		["dnilp3025unilcd40vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN71",
+				},
+			},
+			["name"] = "WPN Volume Control Knob - CW/Increase",
+		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {
@@ -466,6 +589,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
+		},
+		["dnilp840unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN63",
+				},
+			},
+			["name"] = "Gain goggles up",
+		},
+		["dnilp841unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "Gain goggles down",
 		},
 	},
 }
