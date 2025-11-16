@@ -139,6 +139,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d149pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN56",
+				},
+			},
+			["name"] = "F6 Released weapon view",
+		},
 		["d15pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -465,7 +473,7 @@ local diff = {
 		["d71pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN56",
+					["key"] = "JOY_BTN55",
 				},
 			},
 			["name"] = "Canopy - OPEN/CLOSE",
